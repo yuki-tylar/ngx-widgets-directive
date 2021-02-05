@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+
+  public count = 0;
+  countup(){ 
+    console.log('clickoutside');
+    this.count ++; }
 }
