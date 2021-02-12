@@ -5,4 +5,5 @@
 export * from './lib/directive.service';
 export * from './lib/focus.directive';
 export * from './lib/click-outside.directive';
+export * from './lib/draggable.directive';
 export * from './lib/directive.module';
